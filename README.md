@@ -106,11 +106,6 @@ attendance/
 ├── config.py
 ├── requirements.txt
 ├── README.md
-│
-├── assets/
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│
 └── .gitignore
 ```
 
